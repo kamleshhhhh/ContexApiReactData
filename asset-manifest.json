@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ContexApiReactData/static/css/main.e102afd6.css",
-    "main.js": "/ContexApiReactData/static/js/main.604f9923.js",
-    "static/js/787.83e4eb01.chunk.js": "/ContexApiReactData/static/js/787.83e4eb01.chunk.js",
-    "index.html": "/ContexApiReactData/index.html",
-    "main.e102afd6.css.map": "/ContexApiReactData/static/css/main.e102afd6.css.map",
-    "main.604f9923.js.map": "/ContexApiReactData/static/js/main.604f9923.js.map",
-    "787.83e4eb01.chunk.js.map": "/ContexApiReactData/static/js/787.83e4eb01.chunk.js.map"
+    "main.css": "/DatafetchContextApireact/static/css/main.e102afd6.css",
+    "main.js": "/DatafetchContextApireact/static/js/main.612fe661.js",
+    "static/js/787.83e4eb01.chunk.js": "/DatafetchContextApireact/static/js/787.83e4eb01.chunk.js",
+    "index.html": "/DatafetchContextApireact/index.html",
+    "main.e102afd6.css.map": "/DatafetchContextApireact/static/css/main.e102afd6.css.map",
+    "main.612fe661.js.map": "/DatafetchContextApireact/static/js/main.612fe661.js.map",
+    "787.83e4eb01.chunk.js.map": "/DatafetchContextApireact/static/js/787.83e4eb01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e102afd6.css",
-    "static/js/main.604f9923.js"
+    "static/js/main.612fe661.js"
   ]
 }
